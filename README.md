@@ -29,3 +29,7 @@ There are four things you need to include to make your example reproducible: req
 You can check you have actually made a reproducible example by starting up a fresh R session and pasting your script in.  
 
 Before putting all of your code in an email, consider putting it on http://gist.github.com/.  It will give your code nice syntax highlighting, and you don't have to worry about anything getting mangled by the email system.
+
+### Attention:
+
+Do not forget to make your question **clear** with a reproducible example, an **error message**, and the output of `sessionInfo()`.
