@@ -1,4 +1,4 @@
-# Attention: 
+# Tips for a reproducible example
 
 You are most likely to get good help with your R problem if you provide a reproducible example. A reproducible example allows someone else to recreate your problem by just copying and pasting R code. 
 
